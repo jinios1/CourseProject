@@ -1,0 +1,110 @@
+E:\projects\web final\back\WEBPROGM\bin\Debug\net7.0\appsettings.Development.json
+E:\projects\web final\back\WEBPROGM\bin\Debug\net7.0\appsettings.json
+E:\projects\web final\back\WEBPROGM\bin\Debug\net7.0\Back.staticwebassets.runtime.json
+E:\projects\web final\back\WEBPROGM\bin\Debug\net7.0\Back.exe
+E:\projects\web final\back\WEBPROGM\bin\Debug\net7.0\Back.deps.json
+E:\projects\web final\back\WEBPROGM\bin\Debug\net7.0\Back.runtimeconfig.json
+E:\projects\web final\back\WEBPROGM\bin\Debug\net7.0\Back.dll
+E:\projects\web final\back\WEBPROGM\bin\Debug\net7.0\Back.pdb
+E:\projects\web final\back\WEBPROGM\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\projects\web final\back\WEBPROGM\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\projects\web final\back\WEBPROGM\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\projects\web final\back\WEBPROGM\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\projects\web final\back\WEBPROGM\bin\Debug\net7.0\Npgsql.dll
+E:\projects\web final\back\WEBPROGM\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\projects\web final\back\WEBPROGM\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\projects\web final\back\WEBPROGM\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\projects\web final\back\WEBPROGM\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\Back.csproj.AssemblyReference.cache
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\Back.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\Back.AssemblyInfoInputs.cache
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\Back.AssemblyInfo.cs
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\Back.csproj.CoreCompileInputs.cache
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\Back.MvcApplicationPartsAssemblyInfo.cs
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\Back.MvcApplicationPartsAssemblyInfo.cache
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\Back.RazorAssemblyInfo.cache
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\Back.RazorAssemblyInfo.cs
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\staticwebassets\msbuild.Back.Microsoft.AspNetCore.StaticWebAssets.props
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\staticwebassets\msbuild.build.Back.props
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Back.props
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Back.props
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\staticwebassets.pack.json
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\staticwebassets.build.json
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\staticwebassets.development.json
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\scopedcss\bundle\Back.styles.css
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\scopedcss\projectbundle\Back.bundle.scp.css
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\Back.dll
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\refint\Back.dll
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\Back.pdb
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\Back.genruntimeconfig.cache
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\ref\Back.dll
+E:\projects\web final\back\WEBPROGM\bin\Debug\net7.0\Back.staticwebassets.endpoints.json
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\staticwebassets\msbuild.Back.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\Back.csproj.Up2Date
+E:\projects\web final\back\WEBPROGM\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\projects\web final\back\WEBPROGM\bin\Debug\net7.0\RabbitMQ.Client.dll
+E:\projects\web final\back\WEBPROGM\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
+E:\projects\web final\back\WEBPROGM\bin\Debug\net7.0\System.IO.Pipelines.dll
+E:\projects\web final\back\WEBPROGM\bin\Debug\net7.0\System.Threading.Channels.dll
+E:\projects\web final\back\WEBPROGM\bin\Debug\net7.0\System.Threading.RateLimiting.dll
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\bin\Debug\net7.0\appsettings.json
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\bin\Debug\net7.0\Back.staticwebassets.runtime.json
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\bin\Debug\net7.0\Back.staticwebassets.endpoints.json
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\bin\Debug\net7.0\Back.exe
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\bin\Debug\net7.0\Back.deps.json
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\bin\Debug\net7.0\Back.runtimeconfig.json
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\bin\Debug\net7.0\Back.dll
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\bin\Debug\net7.0\Back.pdb
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\bin\Debug\net7.0\Npgsql.dll
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\bin\Debug\net7.0\System.IO.Pipelines.dll
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\bin\Debug\net7.0\System.Threading.Channels.dll
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\bin\Debug\net7.0\System.Threading.RateLimiting.dll
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\obj\Debug\net7.0\Back.csproj.AssemblyReference.cache
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\obj\Debug\net7.0\Back.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\obj\Debug\net7.0\Back.AssemblyInfoInputs.cache
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\obj\Debug\net7.0\Back.AssemblyInfo.cs
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\obj\Debug\net7.0\Back.csproj.CoreCompileInputs.cache
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\obj\Debug\net7.0\Back.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\obj\Debug\net7.0\Back.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\obj\Debug\net7.0\Back.RazorAssemblyInfo.cache
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\obj\Debug\net7.0\Back.RazorAssemblyInfo.cs
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\obj\Debug\net7.0\scopedcss\bundle\Back.styles.css
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\obj\Debug\net7.0\scopedcss\projectbundle\Back.bundle.scp.css
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\obj\Debug\net7.0\staticwebassets\msbuild.Back.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\obj\Debug\net7.0\staticwebassets\msbuild.Back.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\obj\Debug\net7.0\staticwebassets\msbuild.build.Back.props
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Back.props
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Back.props
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\obj\Debug\net7.0\Back.csproj.Up2Date
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\obj\Debug\net7.0\Back.dll
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\obj\Debug\net7.0\refint\Back.dll
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\obj\Debug\net7.0\Back.pdb
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\obj\Debug\net7.0\Back.genruntimeconfig.cache
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\obj\Debug\net7.0\ref\Back.dll
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\bin\Debug\net7.0\DnsClient.dll
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\bin\Debug\net7.0\SharpCompress.dll
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\bin\Debug\net7.0\Snappier.dll
+C:\Users\Norci\Desktop\CourseProject-main\WEBPROGM\bin\Debug\net7.0\ZstdSharp.dll

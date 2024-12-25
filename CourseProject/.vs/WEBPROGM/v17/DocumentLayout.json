@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Norci\\Desktop\\CourseProject-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|c:\\users\\norci\\desktop\\courseproject-main\\webprogm\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|solutionrelative:webprogm\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|c:\\users\\norci\\desktop\\courseproject-main\\webprogm\\models\\itemcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|solutionrelative:webprogm\\models\\itemcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|c:\\users\\norci\\desktop\\courseproject-main\\webprogm\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|solutionrelative:webprogm\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|c:\\users\\norci\\desktop\\courseproject-main\\webprogm\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|solutionrelative:webprogm\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|c:\\users\\norci\\desktop\\courseproject-main\\webprogm\\services\\interfaces\\iinventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|solutionrelative:webprogm\\services\\interfaces\\iinventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|c:\\users\\norci\\desktop\\courseproject-main\\webprogm\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|solutionrelative:webprogm\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|c:\\users\\norci\\desktop\\courseproject-main\\webprogm\\services\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|solutionrelative:webprogm\\services\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|c:\\users\\norci\\desktop\\courseproject-main\\webprogm\\services\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|solutionrelative:webprogm\\services\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|c:\\users\\norci\\desktop\\courseproject-main\\webprogm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|solutionrelative:webprogm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|c:\\users\\norci\\desktop\\courseproject-main\\webprogm\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|solutionrelative:webprogm\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|c:\\users\\norci\\desktop\\courseproject-main\\webprogm\\services\\implementations\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|solutionrelative:webprogm\\services\\implementations\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|c:\\users\\norci\\desktop\\courseproject-main\\webprogm\\services\\implementations\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|solutionrelative:webprogm\\services\\implementations\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|c:\\users\\norci\\desktop\\courseproject-main\\webprogm\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|solutionrelative:webprogm\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|c:\\users\\norci\\desktop\\courseproject-main\\webprogm\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|solutionrelative:webprogm\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|c:\\users\\norci\\desktop\\courseproject-main\\webprogm\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|solutionrelative:webprogm\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|c:\\users\\norci\\desktop\\courseproject-main\\webprogm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|solutionrelative:webprogm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|c:\\users\\norci\\desktop\\courseproject-main\\webprogm\\back.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|solutionrelative:webprogm\\back.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Norci\\Desktop\\CourseProject-main\\WEBPROGM\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "WEBPROGM\\Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Norci\\Desktop\\CourseProject-main\\WEBPROGM\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "WEBPROGM\\Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T11:32:34.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Norci\\Desktop\\CourseProject-main\\WEBPROGM\\Services\\Implementations\\OrderService.cs",
+              "RelativeDocumentMoniker": "WEBPROGM\\Services\\Implementations\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Norci\\Desktop\\CourseProject-main\\WEBPROGM\\Services\\Implementations\\OrderService.cs",
+              "RelativeToolTip": "WEBPROGM\\Services\\Implementations\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T11:33:20.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemCard.cs",
+              "DocumentMoniker": "C:\\Users\\Norci\\Desktop\\CourseProject-main\\WEBPROGM\\Models\\ItemCard.cs",
+              "RelativeDocumentMoniker": "WEBPROGM\\Models\\ItemCard.cs",
+              "ToolTip": "C:\\Users\\Norci\\Desktop\\CourseProject-main\\WEBPROGM\\Models\\ItemCard.cs",
+              "RelativeToolTip": "WEBPROGM\\Models\\ItemCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:08:43.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Norci\\Desktop\\CourseProject-main\\WEBPROGM\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WEBPROGM\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Norci\\Desktop\\CourseProject-main\\WEBPROGM\\Models\\User.cs",
+              "RelativeToolTip": "WEBPROGM\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T11:41:24.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Norci\\Desktop\\CourseProject-main\\WEBPROGM\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "WEBPROGM\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Norci\\Desktop\\CourseProject-main\\WEBPROGM\\Models\\Order.cs",
+              "RelativeToolTip": "WEBPROGM\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:08:44.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Norci\\Desktop\\CourseProject-main\\WEBPROGM\\Services\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "WEBPROGM\\Services\\Interfaces\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\Norci\\Desktop\\CourseProject-main\\WEBPROGM\\Services\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "WEBPROGM\\Services\\Interfaces\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T11:33:11.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InventoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Norci\\Desktop\\CourseProject-main\\WEBPROGM\\Services\\Implementations\\InventoryService.cs",
+              "RelativeDocumentMoniker": "WEBPROGM\\Services\\Implementations\\InventoryService.cs",
+              "ToolTip": "C:\\Users\\Norci\\Desktop\\CourseProject-main\\WEBPROGM\\Services\\Implementations\\InventoryService.cs",
+              "RelativeToolTip": "WEBPROGM\\Services\\Implementations\\InventoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T12:15:24.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IInventoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Norci\\Desktop\\CourseProject-main\\WEBPROGM\\Services\\Interfaces\\IInventoryService.cs",
+              "RelativeDocumentMoniker": "WEBPROGM\\Services\\Interfaces\\IInventoryService.cs",
+              "ToolTip": "C:\\Users\\Norci\\Desktop\\CourseProject-main\\WEBPROGM\\Services\\Interfaces\\IInventoryService.cs",
+              "RelativeToolTip": "WEBPROGM\\Services\\Interfaces\\IInventoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T12:14:59.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MongoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Norci\\Desktop\\CourseProject-main\\WEBPROGM\\Services\\MongoDbContext.cs",
+              "RelativeDocumentMoniker": "WEBPROGM\\Services\\MongoDbContext.cs",
+              "ToolTip": "C:\\Users\\Norci\\Desktop\\CourseProject-main\\WEBPROGM\\Services\\MongoDbContext.cs",
+              "RelativeToolTip": "WEBPROGM\\Services\\MongoDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T11:54:15.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Norci\\Desktop\\CourseProject-main\\WEBPROGM\\Startup.cs",
+              "RelativeDocumentMoniker": "WEBPROGM\\Startup.cs",
+              "ToolTip": "C:\\Users\\Norci\\Desktop\\CourseProject-main\\WEBPROGM\\Startup.cs",
+              "RelativeToolTip": "WEBPROGM\\Startup.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA9wBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:08:30.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Norci\\Desktop\\CourseProject-main\\WEBPROGM\\Program.cs",
+              "RelativeDocumentMoniker": "WEBPROGM\\Program.cs",
+              "ToolTip": "C:\\Users\\Norci\\Desktop\\CourseProject-main\\WEBPROGM\\Program.cs",
+              "RelativeToolTip": "WEBPROGM\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:08:26.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Norci\\Desktop\\CourseProject-main\\WEBPROGM\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WEBPROGM\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Norci\\Desktop\\CourseProject-main\\WEBPROGM\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WEBPROGM\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:08:40.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Norci\\Desktop\\CourseProject-main\\WEBPROGM\\Services\\Implementations\\UserService.cs",
+              "RelativeDocumentMoniker": "WEBPROGM\\Services\\Implementations\\UserService.cs",
+              "ToolTip": "C:\\Users\\Norci\\Desktop\\CourseProject-main\\WEBPROGM\\Services\\Implementations\\UserService.cs",
+              "RelativeToolTip": "WEBPROGM\\Services\\Implementations\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T11:33:00.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InventoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Norci\\Desktop\\CourseProject-main\\WEBPROGM\\Controllers\\InventoryController.cs",
+              "RelativeDocumentMoniker": "WEBPROGM\\Controllers\\InventoryController.cs",
+              "ToolTip": "C:\\Users\\Norci\\Desktop\\CourseProject-main\\WEBPROGM\\Controllers\\InventoryController.cs",
+              "RelativeToolTip": "WEBPROGM\\Controllers\\InventoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:08:37.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Norci\\Desktop\\CourseProject-main\\WEBPROGM\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "WEBPROGM\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Norci\\Desktop\\CourseProject-main\\WEBPROGM\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "WEBPROGM\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:08:39.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Norci\\Desktop\\CourseProject-main\\WEBPROGM\\appsettings.json",
+              "RelativeDocumentMoniker": "WEBPROGM\\appsettings.json",
+              "ToolTip": "C:\\Users\\Norci\\Desktop\\CourseProject-main\\WEBPROGM\\appsettings.json",
+              "RelativeToolTip": "WEBPROGM\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-25T11:55:18.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Back.csproj",
+              "DocumentMoniker": "C:\\Users\\Norci\\Desktop\\CourseProject-main\\WEBPROGM\\Back.csproj",
+              "RelativeDocumentMoniker": "WEBPROGM\\Back.csproj",
+              "ToolTip": "C:\\Users\\Norci\\Desktop\\CourseProject-main\\WEBPROGM\\Back.csproj",
+              "RelativeToolTip": "WEBPROGM\\Back.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-25T11:35:10.805Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
